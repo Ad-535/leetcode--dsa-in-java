@@ -43,6 +43,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
@@ -57,6 +58,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
