@@ -11,6 +11,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -42,6 +43,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
@@ -104,4 +106,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
