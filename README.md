@@ -34,6 +34,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
