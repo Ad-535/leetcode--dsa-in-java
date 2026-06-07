@@ -46,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
