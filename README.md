@@ -21,6 +21,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
