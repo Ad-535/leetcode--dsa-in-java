@@ -38,6 +38,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
@@ -52,6 +53,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
@@ -62,6 +64,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0190-reverse-bits/) | Easy |
@@ -166,4 +169,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
