@@ -25,6 +25,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0125-valid-palindrome/) | Easy |
+| [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
@@ -59,6 +61,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Two Pointers
@@ -84,6 +87,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
