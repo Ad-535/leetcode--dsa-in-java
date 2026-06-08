@@ -46,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0441-arranging-coins](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0441-arranging-coins/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -97,6 +98,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +178,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
