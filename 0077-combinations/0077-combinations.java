@@ -11,11 +11,12 @@ class Solution {
             ans.add(new ArrayList<>(c));
             return;
         }
-        for(int i=idx;i<nums.size();i++){
-            int num=nums.get(i);
-            c.add(num);
-            fun(nums,ans,c,k,i+1);
-            c.remove(c.size()-1);
-        }
+        if(idx==nums.size())return ;
+        fun(nums,ans,c,k,idx+1);
+
+        c.add(nums.get(idx));
+        fun(nums,ans,c,k,idx+1);
+        c.remove(c.size()-1);
+
     }
 }
