@@ -154,6 +154,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
