@@ -98,6 +98,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0237-delete-node-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
