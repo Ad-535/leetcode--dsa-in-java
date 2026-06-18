@@ -8,14 +8,15 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- class Solution {
+class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        List<ListNode> l = new ArrayList<>();
+        ListNode tmp = head;
+        while(tmp!=null){
+            l.add(tmp);
+            tmp = tmp.next;
         }
-        return slow;
+        int n = l.size()/2;
+        return l.get(n);
     }
 }
