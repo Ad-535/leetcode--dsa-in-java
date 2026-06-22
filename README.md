@@ -13,6 +13,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
@@ -46,6 +47,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
