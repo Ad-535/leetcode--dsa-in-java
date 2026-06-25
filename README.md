@@ -256,6 +256,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0102-binary-tree-level-order-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -269,6 +270,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0094-binary-tree-inorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -280,6 +282,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0102-binary-tree-level-order-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
