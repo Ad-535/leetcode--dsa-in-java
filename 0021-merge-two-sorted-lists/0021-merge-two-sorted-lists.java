@@ -23,11 +23,11 @@ class Solution {
     }
     Collections.sort(l); 
     ListNode dummy = new ListNode(-1);
-    ListNode tail = dummy;
+    ListNode head = dummy;
         for(int v:l){
             ListNode node = new ListNode(v);
-            tail.next = node;
-            tail = node;
+            head.next = node;
+            head = node;
         }
          return dummy.next;
     }
