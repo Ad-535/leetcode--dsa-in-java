@@ -181,6 +181,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0326-power-of-three/) | Easy |
@@ -229,6 +230,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
