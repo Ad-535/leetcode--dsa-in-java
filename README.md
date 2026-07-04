@@ -48,6 +48,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
 ## Bit Manipulation
