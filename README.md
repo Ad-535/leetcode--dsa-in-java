@@ -25,6 +25,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
