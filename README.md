@@ -87,6 +87,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
