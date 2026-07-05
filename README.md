@@ -32,6 +32,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1720-decode-xored-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1720-decode-xored-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -272,6 +273,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
