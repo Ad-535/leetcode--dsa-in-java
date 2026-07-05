@@ -1,8 +1,8 @@
 public class Solution {
     public int MySqrt(int x) {
         long root = 0;
-        for(long i=1;i<=(long)x;i++){
-            if(i*i>(long)x)break;
+        for(long i=1;i<=x;i++){
+            if(i*i>x)break;
             root = i;
             
         }
