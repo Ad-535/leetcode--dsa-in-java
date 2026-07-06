@@ -1,17 +1,33 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int pos = 0;
-        int nos = 0;
-        int max = Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>0){
-                pos++;
+        int n = nums.length;
+        int lo = 0;
+        int hi = n-1;
+        int firstnn = n;
+        while(lo<=hi){
+            int mid = lo + (hi-lo)/2;
+            if(nums[mid]>=0){
+                firstnn = mid;
+                hi = mid-1;
             }
-            else if(nums[i]<0){
-                nos++;
+            else{
+                lo = mid+1;
             }
-            max = Math.max(max,Math.max(pos,nos));
+        } lo = 0;
+          hi = n-1;
+         int firstp = n;
+        while(lo<=hi){
+            int mid = lo + (hi-lo)/2;
+            if(nums[mid]>0){
+              firstp = mid;
+              hi = mid-1;
+            }
+            else{
+                lo = mid+1;
+            }
         }
-        return max;
+            int nc = firstnn;
+            int pc = n-firstp;
+         return Math.max(nc,pc);
     }
 }
