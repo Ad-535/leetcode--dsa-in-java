@@ -92,6 +92,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -231,6 +232,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
