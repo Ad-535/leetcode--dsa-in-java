@@ -79,6 +79,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
