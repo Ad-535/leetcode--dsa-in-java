@@ -38,6 +38,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Hash Table
@@ -168,6 +169,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
