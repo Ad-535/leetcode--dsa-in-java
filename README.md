@@ -256,6 +256,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0144-binary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -294,6 +295,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0707-design-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -368,6 +370,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
