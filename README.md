@@ -248,6 +248,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0144-binary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -322,6 +324,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0145-binary-tree-postorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
