@@ -31,6 +31,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -141,6 +142,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
