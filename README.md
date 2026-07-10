@@ -44,6 +44,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1720-decode-xored-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1720-decode-xored-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +167,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +179,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +200,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +308,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,4 +392,5 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
