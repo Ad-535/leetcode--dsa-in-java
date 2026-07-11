@@ -348,6 +348,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +379,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0112-path-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,10 +392,12 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
