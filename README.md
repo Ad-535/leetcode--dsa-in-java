@@ -46,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
+| [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
@@ -286,6 +287,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1929-concatenation-of-array/) | Easy |
+| [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
