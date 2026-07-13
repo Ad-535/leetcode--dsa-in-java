@@ -407,4 +407,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
