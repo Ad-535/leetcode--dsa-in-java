@@ -46,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -90,6 +91,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
@@ -174,6 +176,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -411,4 +414,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
