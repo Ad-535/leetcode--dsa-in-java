@@ -93,6 +93,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
@@ -419,4 +420,5 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
