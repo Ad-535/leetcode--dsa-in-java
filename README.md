@@ -17,6 +17,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -54,6 +55,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -404,6 +406,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
