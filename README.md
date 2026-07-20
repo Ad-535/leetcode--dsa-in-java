@@ -12,6 +12,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0027-remove-element](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
@@ -81,6 +82,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0002-add-two-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0069-sqrtx/) | Easy |
@@ -302,6 +304,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
