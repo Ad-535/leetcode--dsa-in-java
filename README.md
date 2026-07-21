@@ -35,6 +35,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -224,6 +225,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0441-arranging-coins](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -287,6 +289,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -353,6 +356,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
