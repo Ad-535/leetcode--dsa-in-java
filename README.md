@@ -133,6 +133,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
