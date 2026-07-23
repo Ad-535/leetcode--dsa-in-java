@@ -25,6 +25,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -373,6 +374,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
