@@ -4,10 +4,9 @@ class Solution {
         if(n<=2)
         return n;
         int ans = 1;
-        while (ans <= n) {
-            ans *= 2;
+        while(ans<=n){
+            ans*=2;
         }
-
         return ans;
     }
 }
