@@ -28,6 +28,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -204,6 +205,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0338-counting-bits/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
