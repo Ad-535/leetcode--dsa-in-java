@@ -134,6 +134,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0387-first-unique-character-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0443-string-compression](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
@@ -189,6 +190,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
