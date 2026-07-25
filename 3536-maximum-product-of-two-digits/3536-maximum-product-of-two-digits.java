@@ -1,17 +1,12 @@
 class Solution {
     public int maxProduct(int n) {
-        int max1 = 0;
-        int max2 = 0;
-        while (n > 0) {
-            int digit = n % 10;
-            if (digit > max1) {
-                max2 = max1;
-                max1 = digit;
-            } else if (digit > max2) {
-                max2 = digit;
-            }
-            n /= 10;
+        List<Integer> l=new ArrayList<>();
+        while(n>0){
+            l.add(n%10);
+            n/=10;
         }
-        return max1 * max2;
+        Collections.sort(l,Collections.reverseOrder());
+        return l.get(0)*l.get(1);
+
     }
 }
