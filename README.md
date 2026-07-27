@@ -46,6 +46,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -233,6 +234,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -268,6 +270,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0023-merge-k-sorted-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
