@@ -14,6 +14,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
@@ -237,6 +238,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
