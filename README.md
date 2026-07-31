@@ -11,6 +11,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
@@ -335,6 +336,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
