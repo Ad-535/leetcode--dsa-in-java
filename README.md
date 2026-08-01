@@ -37,6 +37,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
@@ -119,6 +120,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0371-sum-of-two-integers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0441-arranging-coins](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0441-arranging-coins/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -234,6 +236,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0152-maximum-product-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -332,6 +335,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -537,4 +541,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
