@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int n = nums[nums.length-1];
         List<Integer> ans = new ArrayList<>();
-        TreeSet<Integer> set = new TreeSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for(int i:nums){
             set.add(i);
         }
