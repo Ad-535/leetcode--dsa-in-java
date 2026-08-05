@@ -30,6 +30,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -215,6 +216,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0151-reverse-words-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
