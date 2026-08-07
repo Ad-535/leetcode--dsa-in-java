@@ -139,6 +139,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -173,6 +174,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -357,6 +359,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0078-subsets/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +437,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -545,6 +549,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
