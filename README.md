@@ -71,6 +71,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
@@ -102,6 +103,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -282,6 +284,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
