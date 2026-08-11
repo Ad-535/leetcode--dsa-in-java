@@ -12,7 +12,7 @@ class Solution {
         ans.add(i);
         while(ans.contains(sum)){
         sum++;
-        }
-        return sum;
+    }
+     return sum;
     }
 }
