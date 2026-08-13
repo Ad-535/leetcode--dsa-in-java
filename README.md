@@ -29,6 +29,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0152-maximum-product-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
@@ -230,6 +231,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -307,6 +309,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
