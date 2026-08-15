@@ -213,6 +213,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1720-decode-xored-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1720-decode-xored-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
