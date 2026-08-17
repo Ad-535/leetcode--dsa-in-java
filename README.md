@@ -635,4 +635,12 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1510-stone-game-iv/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
