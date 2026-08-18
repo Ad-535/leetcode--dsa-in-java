@@ -3,19 +3,20 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         int duplicate = -1;
         int missing = -1;
-        for (int num : nums) {
-            if (set.contains(num)) {
-                duplicate = num;
-            } else {
-                set.add(num);
+        for(int i:nums){
+            if(set.contains(i)){
+            duplicate = i;
+            }
+            else{
+                set.add(i);
             }
         }
-        for (int i = 1; i <= nums.length; i++) {
-            if (!set.contains(i)) {
-                missing = i;
-                break;
-            }
+        for(int i=1;i<=nums.length;i++){
+            if(!set.contains(i)){
+            missing = i;
+            break;
         }
-        return new int[]{duplicate, missing};
+    }
+         return new int[]{duplicate,missing};
     }
 }
