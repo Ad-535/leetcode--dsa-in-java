@@ -9,7 +9,7 @@ class Solution {
             max = nums[i];
             index = i;
         }
-        else if(smax>nums[i]){
+        else if(nums[i]>smax){
             smax = nums[i];
         }
        }
