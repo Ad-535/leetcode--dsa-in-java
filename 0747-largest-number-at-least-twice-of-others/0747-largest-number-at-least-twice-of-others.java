@@ -5,8 +5,8 @@ class Solution {
        int index = -1;
        for(int i=0;i<nums.length;i++){
         if(nums[i]>max){
-            max = nums[i];
             smax = max;
+            max = nums[i];
             index = i;
         }
         else if(smax>nums[i]){
