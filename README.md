@@ -52,6 +52,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -307,6 +308,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
