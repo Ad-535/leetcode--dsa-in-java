@@ -10,6 +10,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0004-median-of-two-sorted-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
@@ -246,6 +247,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0027-remove-element/) | Easy |
@@ -305,6 +307,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
