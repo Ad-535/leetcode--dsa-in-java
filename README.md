@@ -85,6 +85,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -462,6 +463,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
