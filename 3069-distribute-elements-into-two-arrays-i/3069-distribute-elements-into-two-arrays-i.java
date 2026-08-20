@@ -2,25 +2,25 @@ class Solution {
     public int[] resultArray(int[] nums) {
         int arr1[] = new int[nums.length];
         int arr2[] = new int[nums.length];
-        int i = 0;
-        int j = 0;
-        arr1[i] = nums[0];
-        arr2[j] = nums[1];
+        int i=0;
+        int j=0;
+        arr1[i]=nums[0];
+        arr2[j]=nums[1];
         for(int k=2;k<nums.length;k++){
             if(arr1[i]>arr2[j]){
-                arr1[++i] = nums[k];
+                arr1[++i]=nums[k];
             }
             else{
-                arr2[++j] = nums[k];
+                arr2[++j]=nums[k];
             }
         }
-        int ans[] = new int[nums.length];
-        for(int k=0;k<=i;k++){
-            ans[k] = arr1[k];
-        }
-        for(int k=0;k<=j;k++){
-            ans[k+1+i] = arr2[k];
-        }
+            int ans[] = new int[nums.length];
+            for(int k=0;k<=i;k++){
+                ans[k] = arr1[k];
+            }
+            for(int k=0;k<=j;k++){
+                ans[i+k+1]=arr2[k];
+            }
         return ans;
     }
 }
