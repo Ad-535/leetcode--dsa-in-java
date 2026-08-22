@@ -44,6 +44,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0349-intersection-of-two-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
@@ -115,6 +116,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
@@ -324,6 +326,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0349-intersection-of-two-arrays](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
