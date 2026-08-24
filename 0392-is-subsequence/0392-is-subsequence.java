@@ -7,10 +7,9 @@ class Solution {
                 i++;
                 j++;
             }
-            else{
-                j++;
-            }
+            else
+            j++;
         }
-        return s.length()==i;
+        return i==s.length();
     }
 }
