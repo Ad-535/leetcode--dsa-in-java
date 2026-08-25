@@ -74,6 +74,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1720-decode-xored-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -216,6 +217,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
