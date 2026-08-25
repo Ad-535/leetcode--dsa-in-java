@@ -115,6 +115,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -159,6 +160,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0069-sqrtx](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
@@ -285,6 +287,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0344-reverse-string/) | Easy |
@@ -699,6 +702,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
