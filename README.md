@@ -27,6 +27,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0137-single-number-ii/) | Medium |
@@ -312,6 +313,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0392-is-subsequence/) | Easy |
@@ -520,6 +522,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
