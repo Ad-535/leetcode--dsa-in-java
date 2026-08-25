@@ -107,6 +107,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -148,6 +149,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0002-add-two-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
@@ -191,6 +193,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
