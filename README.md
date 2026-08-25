@@ -60,6 +60,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
@@ -169,6 +170,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1406-stone-game-iii/) | Hard |
@@ -342,6 +344,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -516,6 +519,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -690,4 +694,12 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
