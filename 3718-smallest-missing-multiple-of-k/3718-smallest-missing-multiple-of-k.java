@@ -1,8 +1,7 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        int x = k;
-        int ans = 0;
         HashSet<Integer> set = new HashSet<>();
+        int x = k;
         for(int i:nums){
             if(i%k==0){
                 set.add(i);
@@ -12,6 +11,5 @@ class Solution {
             x+=k;
         }
         return x;
-
     }
 }
