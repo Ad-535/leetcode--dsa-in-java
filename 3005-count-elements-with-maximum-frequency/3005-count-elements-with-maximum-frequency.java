@@ -5,14 +5,14 @@ class Solution {
             int c = map.getOrDefault(i,0);
             map.put(i,c+1);
         }
-          int maxFreq = 0;
-        for (int k : map.keySet()) {
-            maxFreq = Math.max(maxFreq, map.get(k));
+        int freq = 0;
+        for(int k:map.values()){
+            freq = Math.max(freq,k);
         }
         int ans = 0;
-        for (int k : map.keySet()) {
-            if (map.get(k) == maxFreq) {
-                ans += map.get(k);
+        for(int k:map.values()){
+            if(k==freq){
+                ans+=k;
             }
         }
         return ans;
