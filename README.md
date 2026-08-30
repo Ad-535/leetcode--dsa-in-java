@@ -58,6 +58,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0645-set-mismatch](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
@@ -476,6 +477,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -661,6 +663,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Database
 | Problem Name | Difficulty |
