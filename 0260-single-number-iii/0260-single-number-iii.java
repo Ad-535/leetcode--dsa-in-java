@@ -1,19 +1,20 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
         int arr[] = new int[2];
-        int j = 0;
+        HashSet<Integer> set = new HashSet<>();
         for(int i:nums){
-            int c = map.getOrDefault(i,0);
-            map.put(i,c+1);
+        if(set.contains(i)){
+            set.remove(i);
         }
-        for(int k:map.keySet()){
-            int f = map.get(k);
-            if(f==1){
-                arr[j]=k;
-                j++; 
-             }  
+        else{
+            set.add(i);
+         }
         }
-       return arr;
+        int j = 0;
+        for(int i:set){
+            arr[j] = i;
+            j++;
+        }
+        return arr;
     }
 }
