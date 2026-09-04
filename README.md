@@ -110,6 +110,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +560,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1732-find-the-highest-altitude](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
