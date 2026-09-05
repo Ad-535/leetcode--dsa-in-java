@@ -61,6 +61,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0867-transpose-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -500,6 +501,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -507,6 +509,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1929-concatenation-of-array/) | Easy |
