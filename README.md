@@ -37,6 +37,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0260-single-number-iii/) | Medium |
@@ -124,6 +125,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0160-intersection-of-two-linked-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -354,6 +356,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0347-top-k-frequent-elements/) | Medium |
