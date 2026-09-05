@@ -18,6 +18,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -502,6 +503,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0867-transpose-matrix/) | Easy |
@@ -511,6 +513,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
