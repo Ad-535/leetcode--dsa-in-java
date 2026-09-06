@@ -231,6 +231,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0443-string-compression](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -311,6 +312,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0443-string-compression/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -556,6 +558,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0011-container-with-most-water](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2029-stone-game-ix/) | Medium |
