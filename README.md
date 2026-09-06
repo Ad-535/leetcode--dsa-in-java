@@ -218,6 +218,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0205-isomorphic-strings/) | Easy |
@@ -332,6 +333,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0152-maximum-product-subarray/) | Medium |
