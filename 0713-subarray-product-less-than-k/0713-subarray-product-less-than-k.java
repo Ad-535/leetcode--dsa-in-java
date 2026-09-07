@@ -7,8 +7,8 @@ class Solution {
         while(end<nums.length){
             p*=nums[end];
             while(p>=k && st<=end){
-                p/=nums[st];
-                st++;
+             p/=nums[st];
+             st++;
             }
             ans+=end-st+1;
             end++;
