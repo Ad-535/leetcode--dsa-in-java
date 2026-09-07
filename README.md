@@ -93,6 +93,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2395-find-subarrays-with-equal-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -147,6 +148,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2206-divide-array-into-equal-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -316,6 +318,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0876-middle-of-the-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -414,6 +417,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1539-kth-missing-positive-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
