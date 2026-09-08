@@ -73,6 +73,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1207-unique-number-of-occurrences](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1406-stone-game-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -490,6 +491,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0643-maximum-average-subarray-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
